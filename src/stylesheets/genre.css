@@ -1,0 +1,13 @@
+.genre{
+    margin: 40px;
+}
+
+.selectButton{
+    height: 50px;
+    width: 180px;
+    background: #a5a5d0;
+    border-radius: 15px;
+    font-size: 22px;
+    padding: 7px;
+    color: white;
+}

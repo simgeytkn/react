@@ -1,0 +1,9 @@
+.result{
+    margin: 20px;
+}
+
+.listResults{
+    list-style-type: none;
+    font-size: 25px;
+    color: #a5a5d0;
+}
